@@ -3,7 +3,10 @@
 <img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134211254-08332981-1dbc-4334-a183-1f4d7c8d9f5f.png">
 
 _The objective of this project is to guess a number between 1-20.
-The number is random generated and every time you want to check if the number is the correct one we can have the output:_
+When you guess the number, the score will be recorder in the HighScore and updated if in the next game you guess the number in less attempts, the HighScore will be updated.
+After guessing the number you can play it again - Chick in the Button Again.
+Everytime you fail to guess the number the score that starts in 20 will decrease. You lose the game if you reach the score 0.
+The number is random generated and every time you want to check if the number is the correct one - Click in the Button Check - we can have the following outputs:_
 
 - [Correct Number](#correct-number)
 - [Incorrect Number](#incorrect-number)
