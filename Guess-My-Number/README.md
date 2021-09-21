@@ -1,9 +1,10 @@
 # Guess My Number
 
-The objective of this project is to guess a number between 1-20. After guessing the number you can play it again - Chick in the Button Again.
+The objective of this project is to guess a number between 1-20.
 When you guess the number, the score will be recorder in the HighScore.
 If in the next game you guess the number in less attempts, the HighScore will be updated.
 Everytime you fail to guess the number the score that starts in 20 will decrease until you guess. You lose the game if you reach the score 0.
+You can start a new game - Click in the Button Again.
 
 <img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134211254-08332981-1dbc-4334-a183-1f4d7c8d9f5f.png">
 
@@ -32,3 +33,5 @@ Every time you want to check if the number is the correct one - Click in the But
 ### Input is too low
 
 <img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134217270-f98bda50-98d6-489d-857d-331c037774c7.png">
+
+# GOOD LUCK!
