@@ -14,3 +14,17 @@ The number is random generated and every time you want to check if the number is
 ## Correct Number
 
 <img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134216660-8f1ef5de-9137-492f-87eb-3a371433d66e.png">
+
+## Incorrect Number
+
+### Input is not a number
+
+<img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134217051-2a015d06-dea7-4403-a6be-418f0385bc77.png">
+
+### Input is too high
+
+<img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134217338-5d314ecf-fb53-4d65-bd79-84679fcc5da1.png">
+
+### Input is too low
+
+<img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134217270-f98bda50-98d6-489d-857d-331c037774c7.png">
