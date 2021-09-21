@@ -5,11 +5,11 @@
 _The objective of this project is to guess a number between 1-20.
 The number is random generated and every time you want to check if the number is the correct one we can have the output:_
 
-1. [Correct Number](#correct-number)
-2. [Incorrect Number](#incorrect-number)
-   1. [Input is not a number](#input-is-not-a-number)
-   1. [Input is too high](#input-is-too-high)
-   1. [Input is too low](#input-is-too-low)
+- [Correct Number](#correct-number)
+- [Incorrect Number](#incorrect-number)
+  - [Input is not a number](#input-is-not-a-number)
+  - [Input is too high](#input-is-too-high)
+  - [Input is too low](#input-is-too-low)
 
 ## Correct Number
 
