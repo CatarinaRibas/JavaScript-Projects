@@ -13,7 +13,7 @@ In order to keep the current score the player need to hold the score - clicking 
 The player that reach 100 score wins the game. To play again you just need to click in New Game.
 Attention: You can roll the dice as many times as you want, but do not forget if you get the lucky to have a 1 before holding the score you will lose all the points until then accomplish.
 
-https://user-images.githubusercontent.com/60032997/134492295-fbc9fc49-f990-4148-85f3-92fc9c088ff2.png
+<img width="1440" alt="imagem" src="https://user-images.githubusercontent.com/60032997/134492602-a66a47cd-a65a-4d3a-9d4b-95352a6a46e2.png">
 
 ### Examples
 
